@@ -105,7 +105,7 @@
 						printf(
 							/* translators: %s: theme name link */
 							esc_html__( 'Powered by %s', 'mywiki' ),
-							'<a href="' . esc_url( __( 'https://fasterthemes.com/wordpress-themes/mywiki', 'mywiki' ) ) . '" rel="nofollow" target="_blank">MyWiki</a>'
+							'<a href="' . esc_url( __( 'https://fasterthemes.com/wordpress-themes/mywiki/', 'mywiki' ) ) . '" rel="nofollow" target="_blank">MyWiki WordPress Theme</a>'
 						);
 					}
 					?>

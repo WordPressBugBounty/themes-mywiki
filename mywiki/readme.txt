@@ -4,7 +4,7 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-logo, custom
 Requires at least: 5.6
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 5.0.0
+Stable tag: 5.0.1
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -52,6 +52,11 @@ Headings ( H2 and H3 ) inside the article body are automatically given anchor ID
 
 == Changelog ==
 
+= 5.0.1 - May 04, 2026 =
+* Footer credit anchor text updated to "MyWiki WordPress Theme" for SEO consistency.
+* Theme URI in style.css and footer link normalized to canonical trailing-slash form.
+* No functional or template changes; copy and link polish only. Direct upgrade from 5.0.0 is safe.
+
 = 5.0.0 - May 02, 2026 =
 * Complete rebuild from the ground up.
 * New design system: Cormorant Garamond serif headlines + Inter body + JetBrains Mono code.
@@ -86,6 +91,9 @@ Headings ( H2 and H3 ) inside the article body are automatically given anchor ID
 * Misc changes.
 
 == Upgrade Notice ==
+
+= 5.0.1 =
+Copy and link polish only. No functional changes. Safe to upgrade.
 
 = 5.0.0 =
 This is a major release. The theme has been fully rebuilt. Back up your customizer settings before upgrading. The old "fa-" icon classes are no longer supported — they are replaced by inline SVG icons.

@@ -9,7 +9,7 @@
 defined( 'ABSPATH' ) || exit;
 
 if ( ! defined( 'MYWIKI_VERSION' ) ) {
-	define( 'MYWIKI_VERSION', '5.0.0' );
+	define( 'MYWIKI_VERSION', '5.0.1' );
 }
 
 /**
